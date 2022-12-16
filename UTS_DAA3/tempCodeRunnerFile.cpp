@@ -1,1 +1,0 @@
-// struktur utk menyimpan node binary tree
